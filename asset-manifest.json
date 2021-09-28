@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://jagadish-patil.github.io/csb-d4yzx/static/css/main.8ff29422.chunk.css",
+    "main.js": "https://jagadish-patil.github.io/csb-d4yzx/static/js/main.55b58b55.chunk.js",
+    "main.js.map": "https://jagadish-patil.github.io/csb-d4yzx/static/js/main.55b58b55.chunk.js.map",
+    "runtime-main.js": "https://jagadish-patil.github.io/csb-d4yzx/static/js/runtime-main.f400a174.js",
+    "runtime-main.js.map": "https://jagadish-patil.github.io/csb-d4yzx/static/js/runtime-main.f400a174.js.map",
+    "static/js/2.7e98b253.chunk.js": "https://jagadish-patil.github.io/csb-d4yzx/static/js/2.7e98b253.chunk.js",
+    "static/js/2.7e98b253.chunk.js.map": "https://jagadish-patil.github.io/csb-d4yzx/static/js/2.7e98b253.chunk.js.map",
+    "index.html": "https://jagadish-patil.github.io/csb-d4yzx/index.html",
+    "precache-manifest.f032805c9a23b62c352dcfb595ae27bc.js": "https://jagadish-patil.github.io/csb-d4yzx/precache-manifest.f032805c9a23b62c352dcfb595ae27bc.js",
+    "service-worker.js": "https://jagadish-patil.github.io/csb-d4yzx/service-worker.js",
+    "static/css/main.8ff29422.chunk.css.map": "https://jagadish-patil.github.io/csb-d4yzx/static/css/main.8ff29422.chunk.css.map",
+    "static/js/2.7e98b253.chunk.js.LICENSE.txt": "https://jagadish-patil.github.io/csb-d4yzx/static/js/2.7e98b253.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f400a174.js",
+    "static/js/2.7e98b253.chunk.js",
+    "static/css/main.8ff29422.chunk.css",
+    "static/js/main.55b58b55.chunk.js"
+  ]
+}
